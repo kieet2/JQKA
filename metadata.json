@@ -1,0 +1,6 @@
+{
+  "name": "Trưa Nay Ăn Gì - CS:GO Case Opening",
+  "description": "Quay hòm CS:GO 3D chọn món ăn trưa ngẫu nhiên, lọc theo ngân sách và sở thích ẩm thực Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
